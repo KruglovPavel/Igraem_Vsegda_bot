@@ -2,7 +2,9 @@
 
 Ссылка на проект - @Igraem_Vsegda_bot
 
-[Скриншот 1](https://github.com/KruglovPavel/Igraem_Vsegda_bot/blob/main/Снимок%20экрана%202025-06-19%20в%2017.37.26.png)
+[Скриншот 1](https://github.com/KruglovPavel/Igraem_Vsegda_bot/blob/main/Снимок%20экрана%202025-06-19%20в%2017.37.26.png?raw=true).
+
+https://github.com/KruglovPavel/Igraem_Vsegda_bot/blob/main/Снимок%20экрана%202025-06-19%20в%2017.37.26.png?raw=true
 
 ## Описание проекта
 
